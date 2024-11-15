@@ -4,13 +4,13 @@ export default function About(){
     return(
         <div className="bg-black h-screen">
           <div className="text-green-500 ">
-           <h1 className=" font-bold text-5xl p-8 "> aboutt</h1 ></div>
-          <div className="flex justify-between "><p className="text-xl text-base ml-10 text-green-500">I'm a passionate and skilled Front-End Developer
-              with a strong foundation in HTML ,<br className="space-y-2"></br> CSS,
-          Javascript ,Typescript and modern frameworks like  React and Next.js.<br/> 
+           <h1 className=" font-bold text-5xl p-8 "> About  </h1 ></div>
+          <div className="flex justify-between "><p className="text-xl text-base ml-10 text-green-500 ">I am  passionate and skilled Front-End Developer
+              with a strong foundation in HTML <br className="space-y-2"></br> CSS
+          Javascript Typescript and modern frameworks like  React and Next.js.<br/> 
           With experience using Bootstrap and
-          Tailwind CSS, I build responsive , <br/>user-friendly web interfaces that
-           deliver great user experiences.Currently, <br/>I'm focused on expending my
+          Tailwind CSS I build responsive  <br/>user-friendly web interfaces that
+           deliver great user experiences.Currently <br/>I am focused on expending my
             expertise in interactive, accessible design and <br/>
           continually refining my skills and continually refining my skills in Javascript frameworks.</p>
              <img src="./IMG.jpg" alt="Ramiz shamis" className="w-40 mr-20  rounded-full"/>             
